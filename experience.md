@@ -1,6 +1,6 @@
-layout: page
+<!-- layout: page
 title: "Experience"
-permalink: /experience/
+permalink: /experience/ -->
 
 ## Welcome to my Experience page
 
