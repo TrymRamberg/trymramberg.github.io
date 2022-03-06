@@ -22,7 +22,7 @@ remote_theme: just-the-docs/just-the-docs
 
 title: [Trym Ramberg]
 description: [ ]
-# baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 # url: "https://trym.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # permalink: pretty
@@ -130,3 +130,37 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "pages", its documents reside in the "_pages" directory
+  pages:
+    permalink: "/:collection/:path/"
+    output: true
+  projects:
+    permalink: "/:collection/:path/"
+    output: true
+
+about:
+  # Define which collections are used in just-the-docs (default: "just_the_docs")
+  collections:
+    # Reference the "pages" collection
+    pages:
+      # Give the collection a name
+      name: Pages
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    projects:
+      # Give the collection a name
+      name: Projects
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
