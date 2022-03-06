@@ -1,7 +1,8 @@
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 # remote_theme: jekyll-theme-blackdoc
+# remote_theme: pages-themes/slate@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 
-remote_theme: pages-themes/slate@v0.2.0
 
 title: [Trym Ramberg]
 description: [ ]
