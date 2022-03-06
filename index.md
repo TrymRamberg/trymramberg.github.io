@@ -9,3 +9,5 @@ nav_order: 0
 
 
 **Hey, I'm Trym!**
+
+(setq markdown-css-paths '("/path/to/custom.css"))
