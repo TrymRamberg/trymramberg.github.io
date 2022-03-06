@@ -5,9 +5,7 @@ layout: default
 nav_order: 0
 ---
 
-![Image](/assets/images/trym.png){ height=50% }
+![Image](/assets/images/trym.png){:target="_blank"}
 
 
 **Hey, I'm Trym!**
-
-(setq markdown-css-paths '("/path/to/custom.css"))
