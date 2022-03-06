@@ -5,15 +5,7 @@ layout: default
 nav_order: 0
 ---
 
-<style>
-#logo{
-    max-height: 50px;
-}
-</style>
-
-<div id="logo">
-![Image](/assets/images/trym.png)
-</div>
+![Image](/assets/images/trym.png){#id .class height=100px}
 
 
 **Hey, I'm Trym!**
