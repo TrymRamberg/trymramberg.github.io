@@ -1,4 +1,4 @@
-#### Hey, I'm Trym!
+### Hey, I'm Trym!
 I'm a junior at the University of Michigan studying Computer Science (with a minor in Business). I'm originally from Oslo, Norway, so if you ever have any questions about vikings, fjords, fishing, or how to build out a free health-care system, I'm sure I could be of some service.
 
 I'm currently a Web Developer for the Multidisciplinary Design Program (MDP) at the University of Michigan. I've been there for a little over two years now, and it's been a great experience working with so many talented and knowledgeable people. This upcoming summer, I will be joining the team at [Slalom](https://www.slalom.com/) as a Software Engineer Intern. 
