@@ -1,6 +1,4 @@
----
-permalink: /
----
+## 
 ## Hey, I'm Trym!
 I'm a junior at the University of Michigan studying Computer Science (with a minor in Business). I'm originally from Oslo, Norway, so if you ever have any questions about vikings, fjords, fishing, or how to build out a free health-care system, I'm sure I could be of some service.
 
