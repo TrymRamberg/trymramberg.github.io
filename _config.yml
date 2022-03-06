@@ -72,9 +72,13 @@ heading_anchors: true
 
 #### TODO: 
 # # Aux links for the upper right navigation
-# aux_links:
-#   "Resume":
-#     - "//github.com/just-the-docs/just-the-docs"
+aux_links:
+  "Resume":
+    - "/resume.pdf"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/trym-ramberg/"
+  "GitHub":
+    - "https://github.com/TrymRamberg"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
