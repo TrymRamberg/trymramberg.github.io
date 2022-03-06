@@ -36,8 +36,8 @@ description: [ ]
 # # Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
 # # include: ["docs/tests/"]
 
-# # Set a path/url to a logo that will be displayed instead of the title
-# #logo: "/assets/images/just-the-docs.png"
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/trym.png"
 
 # # Enable or disable the site search
 # # Supports true (default) or false
