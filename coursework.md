@@ -6,7 +6,7 @@ nav_order: 4
 ---
 ## Coursework
 
-```r
+```js
 EECS 482: Intro to Operating Systems
 EECS 498: Advanced OS Projects
 EECS 485: Web Systems
