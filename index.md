@@ -5,7 +5,7 @@ layout: default
 nav_order: 0
 ---
 
-![Image](/assets/images/trym.png){: style="width: 35%"}
+<!-- ![Image](/assets/images/trym.png){: style="width: 35%"} -->
 
 **Hey, I'm Trym!**
 
