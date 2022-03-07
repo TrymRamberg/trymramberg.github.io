@@ -7,7 +7,7 @@ nav_order: 0
 
 <!-- ![Image](/assets/images/trym.png){: style="width: 35%; border-radius: 10%;"} -->
 
-**Hey, I'm Trym!**
+## Hey, I'm Trym!
 
 I'm a junior at the University of Michigan studying Computer Science (with a minor in Business). I'm originally from Oslo, Norway, so if you ever happen to be in the area, give me a call and I could give you a tour!
 <!-- ever have any questions about vikings, fjords, fishing, or how to get a universal health-care system, I'm sure I could be of service. -->
