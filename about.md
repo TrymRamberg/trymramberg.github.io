@@ -6,8 +6,6 @@ nav_order: 1
 ---
 ## About
 
-![Image](/assets/images/trym.png){: style="width: 25%; border-radius: 10%;"}
-
 ```json
 {
   "firstName": "Trym",
@@ -17,6 +15,9 @@ nav_order: 1
   "favoriteAuthor": "Camus",
   "favoriteBook": "Elon Musk, by Ashlee Vance",
   "favoriteSport": "Football (soccer)",
+  "favoriteTeam": "Liverpool",
   "favoriteTeam": "Liverpool"
 }
 ```
+
+![Image](/assets/images/trym.png){: style="width: 25%; border-radius: 10%;"}
