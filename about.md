@@ -8,6 +8,15 @@ nav_order: 1
 
 ![Image](/assets/images/trym.png){: style="width: 25%; border-radius: 10%;"}
 
-```markdown
-
+```json
+{
+  "firstName": "Trym",
+  "lastName": "Ramberg",
+  "homeTown": "Oslo",
+  "homeCountry": "Norway",
+  "favoriteAuthor": "Camus",
+  "favoriteBook": "Elon Musk, by Ashlee Vance",
+  "favoriteSport": "Football (soccer)",
+  "favoriteTeam": "Liverpool"
+}
 ```
