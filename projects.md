@@ -14,7 +14,7 @@ such as an Inverted Index, backend Server, and a frontend website
 • Built a RESTful API to rank and return search results using PageRank and the Inverted Index
 ```
 
-```markdown
+```
 **Social Network Application** | Python, Flask, React, AWS, SQL May 2021
 • Developed a full-stack web application replica of Instagram using Flask serving a REST API and
 SQL server with React as the frontend
