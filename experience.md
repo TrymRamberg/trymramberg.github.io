@@ -15,10 +15,20 @@ such as an Inverted Index, backend Server, and a frontend website
 ```
 
 ```markdown
-**Social Network Application** | Python, Flask, React, AWS, SQL May 2021
-• Developed a full-stack web application replica of Instagram using Flask serving a REST API and
-SQL server with React as the frontend
-• Deployed backend SQL database using Flask to handle user engagements, such as login, logout, posts, and images
-• Implemented frontend templates using React to display various parts of a social network application
-(image feed, user profile, posts, and comment section)
+### Web Developer
+    (Jan. 2020 – Present)
+University of Michigan, Multidisciplinary Design Program Ann Arbor, MI
+• Manage and develop website for the Multidisciplinary Design Program using Wordpress, jQuery,
+custom plugins, FacetWP, and CPT-UI
+• Collaborate tightly with developers from other university departments through weekly standups
+in order to share design ideas and development insights
+```
+
+```markdown
+### Web Developer (Jan. 2020 – Present)
+University of Michigan, Multidisciplinary Design Program Ann Arbor, MI
+• Manage and develop website for the Multidisciplinary Design Program using Wordpress, jQuery,
+custom plugins, FacetWP, and CPT-UI
+• Collaborate tightly with developers from other university departments through weekly standups
+in order to share design ideas and development insights
 ```
