@@ -6,11 +6,14 @@ nav_order: 2
 ---
 ## Experience
 
-### Search Engine | Python, React, AWS, Bash June 2021
+### Search Engine | June 2021
 • Developed a scalable web application replica of Google/Bing consisting of several different components,
 such as an Inverted Index, backend Server, and a frontend website
+
 • Implemented indexing with a pipeline of MapReduce programs to construct a web search
+
 • Built a RESTful API to rank and return search results using PageRank and the Inverted Index
+
 
 ```md
 ### Web Developer
