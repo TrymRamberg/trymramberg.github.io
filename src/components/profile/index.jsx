@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export const Profile = () => {
   return (
-    <div className="flex justify-between items-center py-4 rounded-lg">
+    <div className="flex justify-between items-center py-4 rounded-lg mb-20">
       <div className="flex flex-col w-full flex-grow">
         <div className="text-3xl md:text-5xl font-bold">Trym Ramberg</div>
         <div className="text-sm md:text-lg font-bold pt-2">

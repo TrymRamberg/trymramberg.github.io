@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Profile } from "../components/profile";
 import { Portfolio } from "../components/portfolio";
 import { Blog } from "../components/blog";
+import { Experience } from "../components/experience";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       </Head>
 
       <Profile />
+      <Experience />
       <Portfolio />
       <Blog />
     </div>
