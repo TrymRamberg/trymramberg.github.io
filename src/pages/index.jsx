@@ -13,10 +13,12 @@ export default function Home() {
         <link rel="icon" href="/logo.png" />
       </Head>
 
-      <Profile />
-      <Experience />
-      <Portfolio />
-      <Blog />
+      <div className="w-full h-full">
+        <Profile />
+        <Experience />
+        {/* <Portfolio /> */}
+        {/* <Blog /> */}
+      </div>
     </div>
   );
 }
