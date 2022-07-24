@@ -5,10 +5,10 @@ export const Profile = () => {
     <div className="flex justify-between items-center py-4 rounded-lg">
       <div className="flex flex-col w-full flex-grow">
         <div className="text-3xl md:text-5xl font-bold">Trym Ramberg</div>
-        <div className="text-sm md:text-md font-bold pt-2">
+        <div className="text-sm md:text-lg font-bold pt-2">
           Software Engineer Intern at Slalom
         </div>
-        <div className="text-sm md:text-md font-medium pr-4 pt-8 text-gray-600 dark:text-gray-400">
+        <div className="text-sm md:text-lg font-medium pr-4 pt-8 text-gray-600 dark:text-gray-400">
           Highly motivated and driven senior studying Computer Science at the
           University of Michigan.
         </div>
