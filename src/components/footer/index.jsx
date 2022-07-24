@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const Footer = () => {
   return (
-    <div className="flex justify-around items-start space-x-4 py-2">
+    <div className="flex justify-around items-start space-x-4 py-16">
       <div className="flex flex-col gap-2">
         <Link href="/">
           <a className="font-normal text-gray-600 hover:text-gray-400 dark:text-gray-500 md:inline-block p-1">
