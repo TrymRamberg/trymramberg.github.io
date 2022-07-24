@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const Header = () => {
   return (
-    <div className="flex justify-between items-center p-4">
+    <div className="flex justify-between items-center py-2">
       <div className="flex space-x-4">
         <Link href="/">
           <a className="font-semibold text-gray-800 dark:text-gray-200 md:inline-block p-1 sm:px-3 sm:py-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-all">
