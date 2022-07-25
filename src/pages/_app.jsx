@@ -4,7 +4,7 @@ import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
   return (
-    <div className="container mx-auto flex flex-col justify-between	max-w-screen-md p-4 pb-16 gap-12">
+    <div className="container mx-auto flex flex-col justify-start	max-w-screen-md p-4 pb-16 gap-12 h-fit">
       <Header />
       <Component {...pageProps} />
       <Footer />
