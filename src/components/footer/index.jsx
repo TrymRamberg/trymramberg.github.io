@@ -21,7 +21,7 @@ export const Footer = () => {
             Portfolio
           </a>
         </Link>
-        <Link href="/Blog">
+        <Link href="/blog">
           <a className="font-normal text-gray-600 hover:text-gray-400 dark:text-gray-500 md:inline-block p-1">
             Blog
           </a>

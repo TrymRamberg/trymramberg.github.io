@@ -27,7 +27,7 @@ export const Header = () => {
         </Link>
       </div>
       <div className="flex space-x-4">
-        <Link href="/">
+        <Link href="/resume.pdf">
           <a
             className="text-gray-400 hover:text-gray-200 bg-gray-700 flex justify-center items-center w-10 h-10 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 transition-all"
             title="Resume"
